@@ -13,7 +13,7 @@ This repository contains code and documentation for hyperparameter tuning of mac
 
 ## Introduction
 
-Hyperparameter tuning is a crucial step in the machine learning pipeline. Properly tuned hyperparameters can significantly improve the performance of a model. This repository offers different techniques and tools for hyperparameter tuning, including grid search, random search, and Bayesian optimization.
+Hyperparameter tuning is a crucial step in the machine learning pipeline. Properly tuned hyperparameters can significantly improve the performance of a model. There are different techniques and tools for hyperparameter tuning, including grid search, random search, and Bayesian optimization. This repository offers hyperparameter tuning using grid search.
 
 ## Installation
 
